@@ -9,4 +9,4 @@ A paginator component for paginating a dataset
       </div>
     </template>
  </dataset-paginator>
- ``
+ ```
